@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(35, 35, 35);
+    color: #ffffff;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    font-weight: 100;
+    font-style: italic;
+    font-variant: normal;
+    font: 100;
+    text-align: center;
+    line-height: normal;
+    text-decoration: dashed;
+    text-transform: capitalize;
+    vertical-align: auto;
+    text-indent: 0%;
+    letter-spacing: normal;
+    word-spacing: normal;
+    white-space: normal;
+    list-style-type: armenian;
+    list-style-position: inside;
+    list-style-image: none;
+    list-style: armenian;
+    border-collapse: collapse;
+    border-spacing: 0cap;
+    empty-cells: hide;
+    caption-side: bottom;
+}
